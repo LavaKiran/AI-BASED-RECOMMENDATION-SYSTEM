@@ -147,3 +147,7 @@ Adjust Neighborhood Size (Optional):
 To experiment with the neighborhood size, find this line in RecommendationEngine.java:
 UserNeighborhood neighborhood = new NearestNUserNeighborhood(3, similarity, model); // Neighborhood size is 3
 Change the value 3 to a different number (e.g., 5, 10, or even larger). A larger neighborhood might consider more users as "similar," potentially affecting the recommendations
+
+
+![Image](https://github.com/user-attachments/assets/b93885ba-2c0d-4863-b58e-d1226af6d631)
+![Image](https://github.com/user-attachments/assets/0005e4aa-f7a0-4946-bf12-7658e31db4ca)
